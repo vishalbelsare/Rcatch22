@@ -45,5 +45,7 @@ helpers/*
 # Mac OS
 
 .DS_Store
-src/*.so
-src/*.o
+
+# Compilation results
+#src/*.so
+#src/*.o
