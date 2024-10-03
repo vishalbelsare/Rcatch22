@@ -33,7 +33,7 @@ You might also be interested in a related R package called [`theft`](https://git
 
 ## Wiki
 
-Please open the included vignette within an R environment or visit the detailed [`Rcatch22` Wiki](https://github.com/hendersontrent/Rcatch22/wiki/) for information and tutorials.
+Please open the included vignette within an R environment or visit the detailed [`Rcatch22` Wiki](https://time-series-features.gitbook.io/catch22/r) for information and tutorials.
 
 ## Computational performance
 
