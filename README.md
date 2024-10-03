@@ -42,7 +42,7 @@ visualisations.
 
 Please open the included vignette within an R environment or visit the
 detailed [`Rcatch22`
-Wiki](https://github.com/hendersontrent/Rcatch22/wiki/) for information
+Wiki](https://time-series-features.gitbook.io/catch22/r) for information
 and tutorials.
 
 ## Computational performance
